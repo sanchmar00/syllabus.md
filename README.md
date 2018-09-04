@@ -189,5 +189,5 @@ Research, as well as personal experience, shows that students tend to understand
 - [Robert College's Collaboration Guidelines](http://webportal.robcol.k12.tr/Academics/Academic-Honesty/CollaborationGuidelines/Pages/default.aspx)
  
 #### CMS / LMS:
-We will use ManageBac.
+We will use ManageBac..
 
